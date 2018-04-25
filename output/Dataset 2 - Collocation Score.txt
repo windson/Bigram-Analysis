@@ -1,0 +1,34 @@
+***************************************************************************************************************
+	 Bigram 				|			 Dataset 2 - Collocation Score
+***************************************************************************************************************
+	 ('adjectival', 'determinative')			|			 21.300589
+	 ('algaecide', 'sanative')			|			 21.300589
+	 ('amoebiasis', 'trichomoniasis')			|			 21.300589
+	 ('amusing', 'avocation')			|			 21.300589
+	 ('amusingly', 'lurid')			|			 21.300589
+	 ('aneroid', 'manometer')			|			 21.300589
+	 ('anophthalmos', 'microphthalmos')			|			 21.300589
+	 ('antilithic', 'emmenagogue')			|			 21.300589
+	 ('apport', 'serge')			|			 21.300589
+	 ('arcuated', 'frown')			|			 21.300589
+	 ('arrogant', 'rude')			|			 21.300589
+	 ('ashen', 'felter')			|			 21.300589
+	 ('attractively', 'repulsively')			|			 21.300589
+	 ('aviator', 'trespasser')			|			 21.300589
+	 ('bade', 'heller')			|			 21.300589
+	 ('barbecue', 'spit')			|			 21.300589
+	 ('bellows', 'pelting')			|			 21.300589
+	 ('belted', 'clearwing')			|			 21.300589
+	 ('biocoenosis', 'photophilic')			|			 21.300589
+	 ('brassy', 'ringy')			|			 21.300589
+	 ('breeze', 'whipping')			|			 21.300589
+	 ('brewer', 'cotman')			|			 21.300589
+	 ('caderas', 'dourine')			|			 21.300589
+	 ('cannibalism', 'spadefoot')			|			 21.300589
+	 ('caryopsis', 'spikelet')			|			 21.300589
+	 ('cashmere', 'sweater')			|			 21.300589
+	 ('ceremony', 'innocence')			|			 21.300589
+	 ('chiro', 'practic')			|			 21.300589
+	 ('chondroma', 'durra')			|			 21.300589
+	 ('clandestine', 'paramilitary')			|			 21.300589
+---------------------------------------------------------------------------------------------------------------

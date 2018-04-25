@@ -1,0 +1,34 @@
+***************************************************************************************************************
+	 Bigram 				|			 Dataset 1 - Collocation Score
+***************************************************************************************************************
+	 ('antagonist', 'fortnightly')			|			 20.728809
+	 ('appeaser', 'inmate')			|			 20.728809
+	 ('arthritis', 'deplete')			|			 20.728809
+	 ('barnard', 'libra')			|			 20.728809
+	 ('bedazzle', 'incompletion')			|			 20.728809
+	 ('benzene', 'pedal')			|			 20.728809
+	 ('bonfire', 'melted')			|			 20.728809
+	 ('cacao', 'hilarity')			|			 20.728809
+	 ('californium', 'scandium')			|			 20.728809
+	 ('cancer', 'herpes')			|			 20.728809
+	 ('celebration', 'arthritis')			|			 20.728809
+	 ('cholera', 'impost')			|			 20.728809
+	 ('clapped', 'glee')			|			 20.728809
+	 ('clockwork', 'muse')			|			 20.728809
+	 ('cockle', 'cobby')			|			 20.728809
+	 ('colonel', 'captain')			|			 20.728809
+	 ('countryside', 'greenery')			|			 20.728809
+	 ('crept', 'bitterroot')			|			 20.728809
+	 ('crust', 'cockle')			|			 20.728809
+	 ('cynic', 'miserable')			|			 20.728809
+	 ('dean', 'pierce')			|			 20.728809
+	 ('deplete', 'vestry')			|			 20.728809
+	 ('destroyer', 'bourgeoisie')			|			 20.728809
+	 ('deuterium', 'luckless')			|			 20.728809
+	 ('developmental', 'singularity')			|			 20.728809
+	 ('diseased', 'pervert')			|			 20.728809
+	 ('dominance', 'resiliency')			|			 20.728809
+	 ('emu', 'lation')			|			 20.728809
+	 ('fairy', 'tales')			|			 20.728809
+	 ('ferrite', 'bead')			|			 20.728809
+---------------------------------------------------------------------------------------------------------------
